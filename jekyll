@@ -1,3 +1,0 @@
-<pre><code>cp -R `echo "$(bundle info minima --path)/_*/"` .
-cp -R "$(bundle info minima --path)/assets/" .
-</code></pre>
